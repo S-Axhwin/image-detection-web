@@ -33,6 +33,3 @@ Upload or input data as required by the model. View real-time ML outputs directl
 - **Next.js** - Frontend framework for React.
 - **TensorFlow** - Machine learning library.
 - **Tailwind CSS** - For UI styling.
-
-## License
-This project is licensed under the MIT License.
